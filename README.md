@@ -43,9 +43,6 @@ Open the `index.html` file in a web browser to view and interact with the YouTub
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any inquiries or feedback, you can reach me at [gayathriande20@gmail.com](mailto:gayathriande20@gmail.com).
 
